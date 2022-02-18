@@ -67,7 +67,7 @@ CLASSIFIERNAME supported are
 - LOGISTIC: Logistic Regression
 - GBTREE: GradientBoosted Tree
 - RIDGE: Ridge classifier
-- VOTER: Voting classifier composed of RF, SVM, ADABOOST [Gives best results]
+- VOTER: Voting classifier composed of RF, SVM, ADABOOST
 
 
 ## Miscallenous Scripts [currently not used]
